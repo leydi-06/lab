@@ -1,3 +1,4 @@
-# labAssignment_5
+# compare sorting algorithms
 
-Build: gcc lab_assignment_5.c
+- implement parseData function
+- implement selection sort, insertion sort, bubble sort, merge sort and heap sort algorithms in the corresponding functions respectively.
